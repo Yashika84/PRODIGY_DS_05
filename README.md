@@ -30,7 +30,7 @@ Through this task, I explored the dataset using Python and generated various plo
 # Exploratory Data Analysis (EDA)
 
 ### Data Cleaning:
-- Removed irrelevant columns like `Time`, `Service_year_of_vehicle`, and `Fitness_of_casuality`
+- Removed irrelevant columns like Time, Service_year_of_vehicle, and Fitness_of_casuality
 - Handled missing or inconsistent entries
 - Encoded categorical variables where necessary
 - Checked and dropped null values for clean analysis
@@ -38,7 +38,7 @@ Through this task, I explored the dataset using Python and generated various plo
 # Key Insights
 
 ### 1. Most Frequent Cause of Accidents
-- `No Distancing` was the leading cause of accidents, highlighting the lack of space between vehicles.
+- No Distancing was the leading cause of accidents, highlighting the lack of space between vehicles.
 - Lane changes and careless driving were also top contributors.
 - Emphasizes need for driver behavior improvement and awareness campaigns.
 
@@ -50,7 +50,7 @@ Through this task, I explored the dataset using Python and generated various plo
 ### 3. Environmental Conditions
 - Most accidents occurred in normal weather, showing that driver error—not weather—is the main cause.
 - Rainy and foggy conditions still showed a moderate accident count.
-- Daylight** was the most common light condition, followed by night without light, which had a higher severity rate.
+- Daylight was the most common light condition, followed by night without light, which had a higher severity rate.
 
 ### 4. Vehicle Type Analysis
 - Automobiles were the most involved in accidents.
