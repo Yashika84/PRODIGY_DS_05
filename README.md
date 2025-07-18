@@ -1,6 +1,7 @@
 # Prodigy InfoTech Data Science Internship Task 5
 
-<img width="1476" height="817" alt="image" src="https://github.com/user-attachments/assets/b98ec621-be64-406a-afd6-53a645ae88b2" 
+<img width="1476" height="817" alt="Screenshot 2025-07-18 193840" src="https://github.com/user-attachments/assets/2ca8aee2-1475-4eaa-9d62-d820f22a21c6" />
+
 
 This repository contains my submission for Task 05 of the Data Science Internship at Prodigy Infotech.
 
